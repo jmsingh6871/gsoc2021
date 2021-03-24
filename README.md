@@ -13,7 +13,7 @@ Demo for Admin {email: admin@gmail.com, password: gsoc1234}
  whereas Admin can only add, delete product details. he can not access to category page.
  
  ## Project Link:
-### https://gsoc2021codechallenge.netlify.app/signin
+### https://gsoc2021codechallenge.netlify.app
 
 ## Future Prospective :
 I will specify one more role for user where he can only see the details of products. He would not have any access to add, delete or update in categories or products.
